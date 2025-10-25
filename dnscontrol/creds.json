@@ -1,0 +1,6 @@
+{
+  "bind": {
+    "TYPE": "BIND",
+    "directory": "output/zones"
+  }
+}

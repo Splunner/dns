@@ -1,0 +1,12 @@
+$TTL 300
+; generated with dnscontrol 2025-10-25T17:56:00Z
+@                IN SOA   ns1.corpo.com. spamtrap.corpo.com. 2025102500 3600 600 604800 1440
+                 IN NS    ns1.corpo.com.
+                 IN NS    ns2.corpo.com.
+                 IN A     192.0.2.30
+admin            IN A     172.10.0.150
+automate         IN A     172.10.0.11
+ns1              IN A     172.10.60.10
+ns2              IN A     172.10.60.20
+www              IN CNAME corpo.com.
+wwwserver        IN A     172.10.51.20
